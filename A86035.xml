@@ -1,0 +1,362 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gloria Britanica [sic] or, A panegyrick, on his sacred Majesties passage thorow the City of London, to his coronation, on the 23 of April, 1661. Likewise another on S. Georges Day.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86035</idno>
+            <idno type="STC">Wing G867</idno>
+            <idno type="STC">Thomason E1088_8</idno>
+            <idno type="STC">ESTC R10488</idno>
+            <idno type="EEBO-CITATION">99858849</idno>
+            <idno type="PROQUEST">99858849</idno>
+            <idno type="VID">169384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86035)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169384)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 162:E1088[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gloria Britanica [sic] or, A panegyrick, on his sacred Majesties passage thorow the City of London, to his coronation, on the 23 of April, 1661. Likewise another on S. Georges Day.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.B. for Andrew Crook, at the Green Dragon in S. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Coronation --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169384:1" rendition="simple:additions"/>
+            <p>Gloria Britanica: OR, A PANEGYRICK, ON HIS Sacred Majeſties Paſſage thorow the City of <hi>London,</hi> TO HIS CORONATION. On the 23 of <hi>April,</hi> 1661.</p>
+            <p>Likewiſe another on S. <hi>GEORGES DAY.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. B.</hi> for <hi>Andrew Crook,</hi> at the <hi>Green Dragon</hi> in S. <hi>Pauls</hi> Church-yard, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="panegyric">
+            <pb facs="tcp:169384:2"/>
+            <pb n="3" facs="tcp:169384:2"/>
+            <head>Gloria Britanica: Or a Panegyrick on His MAjESTIES Paſsing thorow the City of London, and His moſt happy Coronation on the 23 of <hi>April,</hi> 1661.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">H</seg>Ence, hence Rebellion, ſeek another place,</l>
+               <l>
+                  <hi>London</hi> is Loyal! This day a new face</l>
+               <l>Of things doth ſhew; Alligiance out<g ref="char:EOLhyphen"/>vies</l>
+               <l>Former Magnificence, and ſtill further tries</l>
+               <l>To Extaſie her ſelf, that ſhe may crown</l>
+               <l>Her faith t'her Soveraign paſſing through the town</l>
+            </lg>
+            <lg>
+               <l>Each Subject hath erected in his Heart</l>
+               <l>Three Triumphan Arches which, ne're will part:</l>
+               <l>Religion, Loyalty, and Love dwell there</l>
+               <l>To God, the King, each other Tribute here</l>
+               <l>Is daily paid; may theſe for ever ſtand</l>
+               <l>In the ſame luſtre, Graces to our Land.</l>
+            </lg>
+            <lg>
+               <l>Theſe flames of juſt Devotion cant' conceal</l>
+               <l>Within ſuch narrow breaſts their ſparkling zeal:</l>
+               <l>Four ſtately Fabricks are ſet up to be</l>
+               <l>As Hieroglyphicks of what your Majeſtie</l>
+               <l>May always there expect: When Pageantry</l>
+               <l>Shall fade, we are, the City then will cry,</l>
+               <l>Your laſting Triumphal Arch, ſtrength I'll encreaſe</l>
+               <l>By weight of Duty, centring all in peace:</l>
+               <pb n="4" facs="tcp:169384:3"/>
+               <l>Each Arch ſo high, to acquaint th'heaven with news</l>
+               <l>Of what here's done; th' repreſentation ſhews</l>
+               <l>That both the Land and Sea, your Friends yet dare</l>
+               <l>Strive which in you ſhall have the greateſt ſhare.</l>
+            </lg>
+            <lg>
+               <l>The Tower doth firſt entertain the King,</l>
+               <l>The Lyons pay homage, acknowledging</l>
+               <l>By Natures firſt Inſtructions, what ſome men</l>
+               <l>Have vainly thus long doubted, whoſe ſouls then</l>
+               <l>May ſeem to have a lower extract, who'd lie</l>
+               <l>Inferiour to Bruits in Anarchy:</l>
+               <l>Hither crowds th' Nobility, a Court to keep,</l>
+               <l>Whoſe veins here for the King did often weep:</l>
+               <l>Moſt happy change, where th' Execution place</l>
+               <l>Is by this preſence turn'd to a Palace.</l>
+            </lg>
+            <lg>
+               <l>The ſtreets are lin'd with faces, th' windows eyes</l>
+               <l>Are made, all kinde of curioſities</l>
+               <l>Are foils unto the brightneſs coming by,</l>
+               <l>You'd think each Perſon t' be a Diety:</l>
+               <l>The Worlds here epitomiz'd, a whole Nation</l>
+               <l>Shrunk to a Jewel, with a bluſhing paſſion</l>
+               <l>To be outſhin'd by its Neighbour: ſee, cloth</l>
+               <l>Of Gold and Silver ſo common are, as if both</l>
+               <l>The Indies had took voyage croſs the Seas,</l>
+               <l>Or ſome Projection ſuch labour did eaſe.</l>
+            </lg>
+            <lg>
+               <l>The ſtreets are rail'd on both ſides, to the end</l>
+               <l>Both plain and ſafe the way may be t'defend</l>
+               <l>Your Sacred Perſon from the peoples love</l>
+               <l>And joy made free, which throng the Ayr above:</l>
+               <l>The Gowns on one ſide plac'd, which face the bands</l>
+               <l>Of Souldiers, whilſt peace and war ſhake hands:</l>
+               <l>
+                  <q>Thus th'people in th'paſſage do humbly pray,</q>
+               </l>
+               <l>
+                  <q>That moderation be this middle way.</q>
+               </l>
+               <l>So factions ſhall not get an ince of ground,</l>
+               <l>Nor by pretended healings 'gain us wound.</l>
+            </lg>
+            <pb n="5" facs="tcp:169384:3"/>
+            <lg>
+               <l>The days are loyal too, the Sun his beams</l>
+               <l>Gladly diſplays, and lends both light and gleams</l>
+               <l>Of Fruitful heat to our Noon-ſtar, long may</l>
+               <l>He to our Britiſh Orb continue Day;</l>
+               <l>No malign Meteors influence the sky,</l>
+               <l>Storms become Mothers of tranquillity:</l>
+               <l>The days give Omen of your quiet raign,</l>
+               <l>Our Settlement your Croſſes did contain.</l>
+            </lg>
+            <lg>
+               <l>This Noble Train in all the peoples mindes</l>
+               <l>Aw, Love, Hope, and Fear lively checker'd findes,</l>
+               <l>This Day reviv'd the Glory of our Nation,</l>
+               <l>Doth celebrate its Reſurrection:</l>
+               <l>Each one doth keep his rank, knows his degree,</l>
+               <l>Phrantick confuſions, no Divinity:</l>
+               <l>Your Majeſtie comes laſt, quite to undo</l>
+               <l>Your Subjects, who're forc'd t' turn Phanaticks too:</l>
+               <l>The Conduit ſtones would live, whilſt that warm blood</l>
+               <l>Creeps in their veins, unleſs it caus'd a flood:</l>
+               <l>You paſs on ſtill, where you don't ſtay to dine,</l>
+               <l>Your influence turns waters into wine.</l>
+            </lg>
+            <lg>
+               <l>Your Court at length doth bid you welcome home,</l>
+               <l>Some parts reſerved are for th' morrows dooms:</l>
+               <l>Each one hath ſtor'd ſo much of you, whoſe eye</l>
+               <l>Widened it ſelf, its thirſt to ſatisfie:</l>
+               <l>The night doth draw th' curtains, willing to make</l>
+               <l>An interlude, loud muſick, this miſtake</l>
+               <l>Corrects, for bells and ſhouts call up the Day,</l>
+               <l>Expectation can't endure delay.</l>
+            </lg>
+         </div>
+         <div type="panegyric">
+            <head>On the Second Day, being St. <hi>Georges Day.</hi>
+            </head>
+            <lg>
+               <l>ARiſe ye Muſes, quit your beds, ariſe,</l>
+               <l>The day requires a double Sacrifice:</l>
+               <pb n="6" facs="tcp:169384:4"/>
+               <l>Two Worthies have made this an Holy-day,</l>
+               <l>Ariſe, Religion bids you not to ſtay:</l>
+               <l>King <hi>Charls</hi> th'ſecond, Heavens Darling, muſt now</l>
+               <l>His Crown have fixed on his Royal Brow:</l>
+               <l>Twelve years preparing, yet not finiſhed</l>
+               <l>Till it ſhall have Perfection from his head:</l>
+               <l>Gold and precious ſtones married, are too ſmall</l>
+               <l>To confines's thoughts: Our Atlas's crown'd with all</l>
+               <l>The World, yet ſhrinks not under this great weight,</l>
+               <l>Becauſe of Government he hath the ſleight.</l>
+            </lg>
+            <lg>
+               <l>The Peers put on their robes, themſelves attire,</l>
+               <l>Whoſe Vertue and Births have made them higher</l>
+               <l>Then other men, their Honour is full blown,</l>
+               <l>And yet ſhuts up when ere the Sun goes down:</l>
+               <l>The Reverend Biſhops have their place, whoſe age</l>
+               <l>Piety and learning ſupplie Parentage:</l>
+               <l>Their white's unſpotted, their naked innocence</l>
+               <l>Hath conquer'd Armies, ſecures 'gainſt violence</l>
+               <l>Your good Angels, who are endeavouring</l>
+               <l>T' crown your ſoul, and make y'an immortal King:</l>
+               <l>Although the claims in waiting diſtinct be,</l>
+               <l>Yet in this diſcord there is Harmony:</l>
+               <l>Joy's alone contentious, and knows no Law;</l>
+               <l>So many Princes in one, who ever ſaw?</l>
+            </lg>
+            <lg>
+               <l>All theſe Attendants, as it doth behove,</l>
+               <l>With fit Devotion to the Abbey move:</l>
+               <l>This Ancient Cathedral, was wont to be</l>
+               <l>The ſacred place of this Solemnitie,</l>
+               <l>A fit place, where the King a God is made,</l>
+               <l>And yet that he's but man, is taught, Here's laid</l>
+               <l>Intomb'd your Anceſtors, the high aſcent</l>
+               <l>To th'Throne, doth diſcover your Monument:</l>
+               <l>
+                  <q>Your Subjects pray, that you may them ſurvive,</q>
+               </l>
+               <l>
+                  <q>And of their Glory, long the Tomb deprive.</q>
+               </l>
+               <pb n="7" facs="tcp:169384:4"/>
+               <l>The Ceremonies, with the utmoſt care</l>
+               <l>Are done, late Acclamations turn to Prayer:</l>
+               <l>When th'Crown is on, Voyces, the Bells out ring,</l>
+               <l>With one conſent all cry, <hi>God ſave the King:</hi>
+               </l>
+               <l>Though the moſt <hi>Reverend Fathers</hi> hand did ſhake,</l>
+               <l>This Trembling the Crown doth more ſetled make</l>
+               <l>Unto His Royal Head it cleaves ſo faſt,</l>
+               <l>That no Divource by any envious blaſt,</l>
+               <l>Can be ere made: Uſurpers vainly woe</l>
+               <l>What with ſuch conſtancy hath courted you.</l>
+            </lg>
+            <lg>
+               <l>The Feaſt was kept in the adjoyning Hall,</l>
+               <l>Fitted to receive ſuch Gueſts; thither all</l>
+               <l>The people flocks, not as Clients, to look</l>
+               <l>For variety of Law diſh'd up by th' Lord <hi>Cook;</hi>
+               </l>
+               <l>But as Spectators of the Feaſt this Day,</l>
+               <l>Which to S. <hi>Georges</hi> Fame you yearly pay,</l>
+               <l>Your Champion dares challenge all the Heads</l>
+               <l>Of thoſe Great Traytors fixed on the leads:</l>
+               <l>He all in Armour clad, ſeems to outdo</l>
+               <l>St. <hi>George,</hi> he dares charge their Familiars too.</l>
+            </lg>
+            <lg>
+               <l>How do the Canons play, and mankind ſhame,</l>
+               <l>Unbowelling themſelves to feed your Fame:</l>
+               <l>Hark, hark, how do they ſtrain their throats to ſound</l>
+               <l>To the Heavens, the joy of your being Crown'd:</l>
+               <l>The Eccho improves even to a wonder,</l>
+               <l>Eor th'Heavens ſecond them with claps of thunder;</l>
+               <l>And now to all it plainly doth appear,</l>
+               <l>That you are more admired above then here.</l>
+               <l>Greats that pomp, where th' Heavens bring up the rear,</l>
+               <l>The Phanaticks poyſonous breath none need fear,</l>
+               <l>Thunder of infection the Aire doth clear:</l>
+               <l>With Lightning &amp; Thunder ſhowers time do keep,</l>
+               <l>The Heavens for joy often laugh, often weep.</l>
+               <pb n="8" facs="tcp:169384:5"/>
+               <l>Bonfires continue Day, no ſpace between</l>
+               <l>Their flames, th' Element of Fire on earth is ſeen:</l>
+               <l>More laſting Flames are kindled in each breaſt,</l>
+               <l>Aſpiring which of them ſhall pleaſe you beſt.</l>
+            </lg>
+            <lg>
+               <l>Pardon, Great Sir, this bold attempt to draw</l>
+               <l>In ſuch rude lines, what before eye ne're ſaw:</l>
+               <l>'Tis no ſhame to a skilful Artiſts hand,</l>
+               <l>In ſuch a Landskip to be at a ſtand;</l>
+               <l>Where Nature and Art did at once combine,</l>
+               <l>To ſtrive for Victory, and to outſhine</l>
+               <l>Their former dawnings by theſe Noon<g ref="char:punc">▪</g>tide rays,</l>
+               <l>There muſt ſhrink up and wither th'Poets bays.</l>
+               <l>
+                  <hi>Dread Sir,</hi> Your happineſs is now begun,</l>
+               <l>You're Crownd with the perfections of the Sun:</l>
+               <l>Imparting light and heat, you make us live,</l>
+               <l>And unto us you do our Reaſons give:</l>
+               <l>Your Kingdoms late Chaos rarefying</l>
+               <l>From its load of faces, owrs firſt <hi>You King;</hi>
+               </l>
+               <l>When alls ſo well diſpos'd in th' Firmament,</l>
+               <l>Disjoyn'd particles of earth will ſoon cement:</l>
+               <l>Your Worlds compleated, though th'elements ſtrive,</l>
+               <l>And in their Circle, of reſt themſelves deprive:</l>
+               <l>You Peace and plenty to your people bring,</l>
+               <l>No pendant ſword ſhall ſtarve their joy for th'King;</l>
+               <l>Let other Nations wear themſelves away</l>
+               <l>With envying us the glory of this Day:</l>
+               <l>Your Subjects t' a due height at once can't raiſe</l>
+               <l>Fit thoughts of you, for they will live your praiſe.</l>
+               <l>Moſt Royal Sir, may y'r thred of life extend,</l>
+               <l>Beyond your juſt Encomiums<g ref="char:punc">▪</g> which have no end.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
